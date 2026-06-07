@@ -1,0 +1,79 @@
+{
+    "rosemary": {
+        "element": "Fire",
+        "intentions": ["protection", "love", "memory", "cleansing"],
+        "ruler": "Sun"
+    },
+    "lavender": {
+        "element": "Air",
+        "intentions": ["peace", "sleep", "purification", "calming"],
+        "ruler": "Mercury"
+    },
+    "mint": {
+        "element": "Air",
+        "intentions": ["prosperity", "luck", "healing", "protection"],
+        "ruler": "Venus"
+    },
+    "cinnamon": {
+        "element": "Fire",
+        "intentions": ["speed", "success", "wealth", "psychic power"],
+        "ruler": "Sun"
+    },
+    "thyme": {
+        "element": "Water",
+        "intentions": ["courage", "health", "love", "grief"],
+        "ruler": "Venus"
+    },
+
+    "basil": {
+        "element": "Fire",
+        "intentions": ["wealth", "luck", "sympathy", "protection"],
+        "ruler": "Mars"
+    },
+    "bay leaf": {
+        "element": "Fire",
+        "intentions": ["manifestation", "wishes", "protection", "psychic power"],
+        "ruler": "Sun"
+    },
+    "sage": {
+        "element": "Air",
+        "intentions": ["purification", "wisdom", "wishes", "banishing"],
+        "ruler": "Jupiter"
+    },
+    "clove": {
+        "element": "Fire",
+        "intentions": ["banishing", "protection", "money", "cleansing"],
+        "ruler": "Jupiter"
+    },
+    "garlic": {
+        "element": "Fire",
+        "intentions": ["protection", "healing", "banishing", "strength"],
+        "ruler": "Mars"
+    },
+    "chamomile": {
+        "element": "Water",
+        "intentions": ["peace", "sleep", "money", "healing"],
+        "ruler": "Sun"
+    },
+    "oregano": {
+        "element": "Air",
+        "intentions": ["peace", "joy", "protection", "psychic dreams"],
+        "ruler": "Venus"
+    },
+    "ginger": {
+        "element": "Fire",
+        "intentions": ["speed", "passion", "success", "personal power"],
+        "ruler": "Mars"
+    },
+    "black pepper": {
+        "element": "Fire",
+        "intentions": ["banishing", "protection", "boundaries"],
+        "ruler": "Mars"
+    },
+    "mugwort": {
+        "element": "Earth",
+        "intentions": ["divination", "psychic power", "protection", "lucid dreaming"],
+        "ruler": "Moon"
+    }
+
+}
